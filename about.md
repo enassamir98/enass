@@ -3,14 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+  EDUCATION
+  cairo university 
+  faculty of engineering 
+  system & biomedical department
+  TECHNICAL SKILLS
+  Embedded system 
+  C and C++ programing language.
+  basic knowledge in Matlab , Paython , MySql and R language.
+  PERSONAL SKILLS
   The things in the world that I love most include safaris, snow, scuba diving, bungee jumping.
- 
-  Being the first rate version of myself is better 
-  than being a second rate version of somebody else.
- 
- SBME-2021 
+  active team member - leadership skills - presentation skills - sociable
+  PERSONAL INFORMATION
+  Date of birth : 1,jan,1998
+  Capricorn 
 
- Capricorn 
 
 [jekyll-organization]: https://github.com/jekyll
